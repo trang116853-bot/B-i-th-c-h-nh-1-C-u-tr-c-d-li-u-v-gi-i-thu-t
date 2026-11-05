@@ -1,0 +1,4 @@
+Input: Nhập N
+Output: N là số nguyên tố hoặc không phải là số nguyên tố
+Đánh giá độ phức tạp của thuật toán:
+Quy tắc nhân: vòng lặp lồng nhau: O(0.5N)
