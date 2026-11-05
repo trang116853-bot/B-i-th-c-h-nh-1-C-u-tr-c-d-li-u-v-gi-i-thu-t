@@ -1,0 +1,4 @@
+Input: Nhập N
+Output: Số lớn nhất trong mảng
+Đánh giá độ phức tạp của thuật toán:
+Quy tắc nhân và quy tắc cộng: O(N)
