@@ -1,4 +1,4 @@
 Input: Nhập vào a, b, c
 Output: Nghiệm của phương trình
-Đánh giá đọ phức tạp của thuật toán:
+Đánh giá độ phức tạp của thuật toán:
 O(1): hằng số
