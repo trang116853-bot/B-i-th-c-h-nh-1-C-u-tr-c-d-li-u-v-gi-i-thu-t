@@ -1,0 +1,5 @@
+Input: Nhập 2 số a, b
+Output: Bội chung nhỏ nhất của a và b
+Đánh giá độ phức tạp của thuật toán:
+Số lần thực hiện vòng lặp tương đương với
+O(log N) với N = min(a, b)
